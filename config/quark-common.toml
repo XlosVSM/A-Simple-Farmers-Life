@@ -136,7 +136,7 @@
 	Thatch = true
 	"Variant Bookshelves" = true
 	"Variant Chests" = false
-	"Variant Furnaces" = true
+	"Variant Furnaces" = false
 	"Variant Ladders" = true
 	"Vertical Planks" = true
 	"Vertical Slabs" = true
