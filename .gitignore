@@ -13,8 +13,12 @@ data/
 logs/
 saves/
 xaero/
+XaeroWaypoints_BACKUP*/
+config/voicechat/username-cache.json
 .curseclient
 minecraftinstance.json
 options.txt
+servers.dat
+servers.dat_old
 usercache.json
 usernamecache.json
