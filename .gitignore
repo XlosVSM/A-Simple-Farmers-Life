@@ -1,6 +1,12 @@
 # OS specific files
 .DS_Store
 
+# Config files not used but update with time/date
+config/fabric/indigo-renderer.properties
+config/ironchests/defaults.properties
+config/everycomp-hazardous.properties
+config/oculus.properties
+
 # Personal files/folders
 crash-reports/
 data/
