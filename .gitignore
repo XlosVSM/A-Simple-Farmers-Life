@@ -11,6 +11,7 @@ config/oculus.properties
 .mixin.out/
 crash-reports/
 data/
+local/
 logs/
 saves/
 xaero/
@@ -20,6 +21,7 @@ config/voicechat/username-cache.json
 .curseclient
 minecraftinstance.json
 options.txt
+rhino.local.properties
 servers.dat
 servers.dat_old
 usercache.json
