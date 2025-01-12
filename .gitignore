@@ -1,6 +1,12 @@
 # OS specific files
 .DS_Store
 
-# Personal files
+# Personal files/folders
+data/
+logs/
+saves/
 .curseclient
 minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
