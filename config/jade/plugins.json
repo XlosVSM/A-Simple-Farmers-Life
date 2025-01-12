@@ -62,8 +62,19 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
+  },
   "waystones": {
     "waystone": true
+  },
+  "dtphc2": {
+    "maple_spile": true,
+    "passion_fruit_vine": true
   },
   "corpse": {
     "corpse": true

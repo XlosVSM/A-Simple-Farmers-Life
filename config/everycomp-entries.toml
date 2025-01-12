@@ -20,6 +20,9 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			pine = true
+			maple = true
+			empyreal = true
 
 		[types.wood_type.biomeswevegone]
 			aspen = true
@@ -47,6 +50,16 @@
 			witch_hazel = true
 			zelkova = true
 
+		[types.wood_type.vinery]
+			dark_cherry = true
+
+		[types.wood_type.meadow]
+			pine = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.quark]
@@ -62,9 +75,6 @@
 			flowering_oak = true
 			rainbow_birch = true
 			snowblossom = true
-			yellow_autumn = true
-			orange_autumn = true
-			maple = true
 			fir = true
 			redwood = true
 			mahogany = true
@@ -75,6 +85,13 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			null = true
+			cypress = true
+			pine = true
+			empyreal = true
 
 		[types.leaves_type.biomeswevegone]
 			aspen = true
@@ -135,6 +152,75 @@
 			yellow_birch = true
 			yellow_spruce = true
 			firecracker = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.croptopia]
+			cinnamon = true
+
+		[types.leaves_type.dtbop]
+			yellow_maple = true
+			willow = true
+			umbran = true
+			spruce_undergrowth = true
+			spruce_twiglet = true
+			spruce_poplar = true
+			sparse_oak = true
+			sparse_acacia = true
+			snowblossom_twiglet = true
+			snowblossom = true
+			red_maple = true
+			redwood = true
+			rainbow_birch = true
+			poplar = true
+			pine = true
+			palm = true
+			orange_maple = true
+			oak_twiglet = true
+			mega_dark_oak = true
+			maple_twiglet = true
+			mangrove_twiglet = true
+			mahogany = true
+			magic_poplar = true
+			jungle_twiglet = true
+			jacaranda = true
+			hellbark_bush = true
+			hellbark = true
+			flowering_oak_undergrowth = true
+			flowering_oak = true
+			fir = true
+			dying = true
+			dark_poplar = true
+			dark_oak_twiglet = true
+			cypress_willow = true
+			cherry_twiglet = true
+			aspen = true
+			acacia_undergrowth = true
+			acacia_twiglet = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			dark_cherry = true
+			apple = true
+
+		[types.leaves_type.meadow]
+			pine = true
+
+		[types.leaves_type.dtvinery]
+			dark_cherry = true
+			apple = true
+
+		[types.leaves_type.dtalexsmobs]
+			banana = true
+
+		[types.leaves_type.dtquark]
+			warm_blossom = true
+			sunny_blossom = true
+			serene_blossom = true
+			frosty_blossom = true
+			fiery_blossom = true
+			ancient = true
 
 	[types.cut_block_type]
 
@@ -227,6 +313,9 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			pine = true
+			maple = true
+			empyreal = true
 
 		[types.cut_block_type.biomeswevegone]
 			black_sandstone = true
@@ -283,6 +372,55 @@
 			willow = true
 			witch_hazel = true
 			zelkova = true
+
+		[types.cut_block_type.yungscavebiomes]
+			smooth_ancient_sandstone = true
+			cut_ancient_sandstone = true
+			ancient_sandstone = true
+
+		[types.cut_block_type.mowziesmobs]
+			painted_acacia = true
+
+		[types.cut_block_type.vinery]
+			dark_cherry = true
+			loam = true
+			coarse_dirt = true
+			dirt = true
+			grass = true
+			dirt_path = true
+
+		[types.cut_block_type.meadow]
+			limestone = true
+			cobbled_limestone = true
+			limestone_brick = true
+			mossy_cobbled_limestone = true
+			mossy_limestone_brick = true
+			pine = true
+
+		[types.cut_block_type.alexscaves]
+			galena = true
+			galena_brick = true
+			limestone = true
+			smooth_limestone = true
+			pewen = true
+			radrock = true
+			radrock_brick = true
+			cinder_block = true
+			abyssmarine = true
+			abyssmarine_brick = true
+			smooth_bone = true
+			guanostone = true
+			guanostone_brick = true
+			coprolith = true
+			smooth_coprolith = true
+			thornwood = true
+			gingerbread_brick = true
+			frosted_gingerbread_brick = true
+
+	[types.cake]
+
+		[types.cake.mowziesdelight]
+			suns_cake = true
 
 #Disables specific entries
 [entries]
@@ -377,6 +515,9 @@
 			lattice_fence_gate = true
 			bath = true
 			kitchen_storage_cabinet = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
 
 	[entries.leaves_type]
 
