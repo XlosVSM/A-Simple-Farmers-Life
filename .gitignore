@@ -2,9 +2,11 @@
 .DS_Store
 
 # Personal files/folders
+crash-reports/
 data/
 logs/
 saves/
+xaero/
 .curseclient
 minecraftinstance.json
 options.txt
