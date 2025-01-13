@@ -159,46 +159,6 @@
 		[types.leaves_type.croptopia]
 			cinnamon = true
 
-		[types.leaves_type.dtbop]
-			yellow_maple = true
-			willow = true
-			umbran = true
-			spruce_undergrowth = true
-			spruce_twiglet = true
-			spruce_poplar = true
-			sparse_oak = true
-			sparse_acacia = true
-			snowblossom_twiglet = true
-			snowblossom = true
-			red_maple = true
-			redwood = true
-			rainbow_birch = true
-			poplar = true
-			pine = true
-			palm = true
-			orange_maple = true
-			oak_twiglet = true
-			mega_dark_oak = true
-			maple_twiglet = true
-			mangrove_twiglet = true
-			mahogany = true
-			magic_poplar = true
-			jungle_twiglet = true
-			jacaranda = true
-			hellbark_bush = true
-			hellbark = true
-			flowering_oak_undergrowth = true
-			flowering_oak = true
-			fir = true
-			dying = true
-			dark_poplar = true
-			dark_oak_twiglet = true
-			cypress_willow = true
-			cherry_twiglet = true
-			aspen = true
-			acacia_undergrowth = true
-			acacia_twiglet = true
-
 		[types.leaves_type.vinery]
 			grapevine = true
 			dark_cherry = true
@@ -206,21 +166,6 @@
 
 		[types.leaves_type.meadow]
 			pine = true
-
-		[types.leaves_type.dtvinery]
-			dark_cherry = true
-			apple = true
-
-		[types.leaves_type.dtalexsmobs]
-			banana = true
-
-		[types.leaves_type.dtquark]
-			warm_blossom = true
-			sunny_blossom = true
-			serene_blossom = true
-			frosty_blossom = true
-			fiery_blossom = true
-			ancient = true
 
 	[types.cut_block_type]
 
