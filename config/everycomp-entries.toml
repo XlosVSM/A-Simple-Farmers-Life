@@ -62,6 +62,9 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			pine = true
+			maple = true
+			empyreal = true
 
 		[types.wood_type.biomeswevegone]
 			aspen = true
@@ -88,6 +91,9 @@
 			willow = true
 			witch_hazel = true
 			zelkova = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
 
 	[types.leaves_type]
 
@@ -131,9 +137,6 @@
 			flowering_oak = true
 			rainbow_birch = true
 			snowblossom = true
-			yellow_autumn = true
-			orange_autumn = true
-			maple = true
 			fir = true
 			redwood = true
 			mahogany = true
@@ -144,6 +147,13 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			null = true
+			cypress = true
+			pine = true
+			empyreal = true
 
 		[types.leaves_type.biomeswevegone]
 			aspen = true
@@ -310,6 +320,9 @@
 			magic = true
 			umbran = true
 			hellbark = true
+			pine = true
+			maple = true
+			empyreal = true
 
 		[types.cut_block_type.vinery]
 			dark_cherry = true
@@ -513,6 +526,34 @@
 			stone_tile = true
 			blackstone_tile = true
 
+		[types.cut_block_type.yungscavebiomes]
+			smooth_ancient_sandstone = true
+			cut_ancient_sandstone = true
+			ancient_sandstone = true
+
+		[types.cut_block_type.galosphere]
+			silver_tiles = true
+			silver_panel = true
+			smooth_amethyst = true
+			smooth_allurite = true
+			smooth_lumiere = true
+			amethyst_brick = true
+			allurite_brick = true
+			lumiere_brick = true
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+			polished_pink_salt = true
+			polished_rose_pink_salt = true
+			polished_pastel_pink_salt = true
+			pink_salt_brick = true
+			rose_pink_salt_brick = true
+			pastel_pink_salt_brick = true
+
+		[types.cut_block_type.betterarcheology]
+			rotten = true
+			cracked_mud_brick = true
+
 #Disables specific entries
 [entries]
 
@@ -663,6 +704,9 @@
 			tiki_torch = true
 			soul_tiki_torch = true
 			ceiling_fan_light = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
 
 	[entries.leaves_type]
 
