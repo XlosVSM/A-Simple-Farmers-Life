@@ -5,6 +5,8 @@
 config/fabric/indigo-renderer.properties
 config/everycomp-hazardous.properties
 config/oculus.properties
+kubejs/config/client.properties
+kubejs/config/common.properties
 
 # Personal files/folders
 .mixin.out/
