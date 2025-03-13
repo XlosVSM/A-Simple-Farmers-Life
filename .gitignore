@@ -2,6 +2,7 @@
 .DS_Store
 
 # Config files not used but update with time/date
+config/oculus.properties
 
 # Personal files/folders
 .mixin.out/
