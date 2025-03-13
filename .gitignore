@@ -2,6 +2,8 @@
 .DS_Store
 
 # Config files not used but update with time/date
+config/fabric/indigo-renderer.properties
+config/everycomp_hazardous.properties
 config/oculus.properties
 
 # Personal files/folders

@@ -15,6 +15,10 @@
 			mint_cake = true
 			adzuki_cake = true
 
+		[types.cake.thermal]
+			chocolate_cake = true
+			spice_cake = true
+
 	[types.wood_type]
 
 		[types.wood_type.quark]
@@ -34,6 +38,9 @@
 			laurel = true
 			kousa = true
 			grimwood = true
+
+		[types.wood_type.thermal]
+			rubberwood = true
 
 	[types.leaves_type]
 
@@ -60,6 +67,9 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
+
+		[types.leaves_type.thermal]
+			rubberwood = true
 
 #Disables specific entries
 [entries]
