@@ -1,3 +1,47 @@
 {
-  "schema_version": "2"
+  "schema_version": "2",
+  "pack_overrides": {
+    "file/Delightful-plaques-1.1+(1.20.1).zip": {
+      "hidden": true
+    },
+    "file/EnderEyes_1.20.1_v3.zip": {
+      "hidden": true
+    },
+    "file/Quark Programmer Art.zip": {
+      "force_compatible": true
+    },
+    "file/quarkconnectedfusion.zip": {
+      "hidden": true
+    },
+    "file/rainbowXpBar_1.19-1.20.1.zip": {
+      "force_compatible": true
+    },
+    "file/Repurposed_Structures-Better_Desert_Temples_v8.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Dungeons_v5.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Jungle_Temples_v6.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Monuments_v6.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Witch_Huts_v4.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Farmers_Delight_v6.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Friends_And_Foes_v5.zip": {
+      "hidden": true
+    },
+    "file/Slightly-Improved-Font-1.1.5.zip": {
+      "hidden": true
+    },
+    "file/VerticalNuggets-1.20-1.0.2.1.zip": {
+      "hidden": true
+    }
+  }
 }
