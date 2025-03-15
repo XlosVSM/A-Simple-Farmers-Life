@@ -95,6 +95,10 @@
 		[types.wood_type.betterarcheology]
 			rotten = true
 
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.alexscaves]
@@ -214,6 +218,9 @@
 			yellow_birch = true
 			yellow_spruce = true
 			firecracker = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
 
 	[types.cut_block_type]
 
@@ -553,6 +560,44 @@
 		[types.cut_block_type.betterarcheology]
 			rotten = true
 			cracked_mud_brick = true
+
+		[types.cut_block_type.mowziesmobs]
+			painted_acacia = true
+
+		[types.cut_block_type.savage_and_ravage]
+			gloomy_tile = true
+
+		[types.cut_block_type.upgrade_aquatic]
+			beachgrass_thatch = true
+			luminous_prismarine = true
+			tooth_brick = true
+			scute_shingle = true
+			scute_pavement = true
+			coralstone = true
+			bubble_coralstone = true
+			horn_coralstone = true
+			tube_coralstone = true
+			brain_coralstone = true
+			fire_coralstone = true
+			acan_coralstone = true
+			finger_coralstone = true
+			star_coralstone = true
+			moss_coralstone = true
+			petal_coralstone = true
+			branch_coralstone = true
+			rock_coralstone = true
+			pillow_coralstone = true
+			silk_coralstone = true
+			chrome_coralstone = true
+			prismarine_coralstone = true
+			elder_prismarine_coralstone = true
+			dead_coralstone = true
+			kelpy_cobblestone = true
+			kelpy_stone_brick = true
+			kelpy_cobblestone_brick = true
+			kelpy_cobblestone_tile = true
+			driftwood = true
+			river = true
 
 #Disables specific entries
 [entries]
