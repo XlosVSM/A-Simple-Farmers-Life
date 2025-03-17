@@ -3,7 +3,6 @@
 
 # Config files not used but update with time/date
 config/fabric/indigo-renderer.properties
-# config/everycomp-hazardous.properties
 config/oculus.properties
 kubejs/config/client.properties
 kubejs/config/common.properties
